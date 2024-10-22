@@ -1,8 +1,9 @@
----features-----------
-convert any text into ASCII art 
-easy to use 
-console based 
----requirements------------------
-python 3.x
-pyfiglet library (pip install pyfiglet)
--------------------------------------------
+# ASCII Art Generator
+
+## Features
+- Convert any text into ASCII art
+- Easy to use console-based interface
+
+## Requirements
+- Python 3.x
+- `pyfiglet` library (install with `pip install pyfiglet`)
